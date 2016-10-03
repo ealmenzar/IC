@@ -1,0 +1,12 @@
+En la carpeta Ejemplo_3propuestas se encuentran archivos Analisis.txt, AnalisisSectores.txt, Noticias.txt y Cartera.txt 
+con los que poder probar un ejemplo en el que, por las condiciones de los datos, el máximo número de propuestas que se
+construyen es 3, por lo que solo se muestran en menú al usuario estas 3 propuestas.
+
+En la carpeta Ejemplo_5propuestas se encuentran archivos Analisis.txt, AnalisisSectores.txt, Noticias.txt y Cartera.txt 
+con los que poder probar un ejemplo en el que, por las condiciones de los datos, el máximo número de propuestas que se
+construyen es 5, por lo que se mostrarán, inicialmente, las 5 propuestas.
+
+De forma equivalente se pueden obtener archivos Analisis.txt, AnalisisSectores.txt, Noticias.txt y Cartera.txt
+que reúnan las condiciones adecuadas para obtener más de 5 propuestas: en este caso se escogerían las 5 mejores
+y se mostrarían al usuario. Una vez elegida una de ellas, si el usuario decidiese seguir eligiendo propuestas,
+se mostraría una nueva propuesta más (la siguiente mejor). Y así hasta agotar la propuestas.
